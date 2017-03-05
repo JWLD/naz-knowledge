@@ -1,3 +1,3 @@
 # naz-knowledge
 
-Temporary repo for collecting knowledge on Nazareth.
+Temporary repo for pooling knowledge on Nazareth.
